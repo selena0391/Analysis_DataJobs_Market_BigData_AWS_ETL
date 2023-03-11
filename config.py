@@ -1,0 +1,1 @@
+params = 'postgresql+psycopg2://postgres:ds2022_aws@rds-pg-jobs.chfavwsr5bmp.us-east-1.rds.amazonaws.com:5432/postgres'
